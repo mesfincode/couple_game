@@ -12,10 +12,12 @@ const options = [
   "Truth 💭",
   "Hold Hands 🫶",
   "Dare 🔥",
+  "back shot 💦",
+  "you owe me head 🍆",
+  "doggy style shot 🤤🍑🥒❤️‍🔥",
+  "explicit sending photo 🤤",
   "Sweet Whisper 🗣️",
   "Love Note ✍️",
-  "Wink 😉",
-  "Romantic Stare 👀",
 ];
 
 export default function Home() {
