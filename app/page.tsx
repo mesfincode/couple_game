@@ -15,7 +15,7 @@ const options = [
   "back shot 💦",
   "you owe me head 🍆",
   "doggy style shot 🤤🍑🥒❤️‍🔥",
-  "explicit sending photo 🤤",
+  "sending explicit images 🤤",
   "Sweet Whisper 🗣️",
   "Love Note ✍️",
 ];
