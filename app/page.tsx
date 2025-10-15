@@ -12,12 +12,10 @@ const options = [
   "Truth 💭",
   "Hold Hands 🫶",
   "Dare 🔥",
-  "back shot 💦",
-  "you owe me head 🍆",
-  "doggy style shot 🤤🍑🥒❤️‍🔥",
-  "explicit sending photo 🤤",
   "Sweet Whisper 🗣️",
   "Love Note ✍️",
+  "Wink 😉",
+  "Romantic Stare 👀",
 ];
 
 export default function Home() {
@@ -34,12 +32,12 @@ export default function Home() {
   };
 
   return (
-    <div className="h-screen flex flex-col justify-center items-center bg-pink-100">
+    <div className="h-screen flex flex-col justify-center items-center bg-pink-50 text-gray-900">
       <h1 className="text-3xl font-bold mb-4">💞 Couple Spinner 💞</h1>
       <button
         onClick={spin}
         disabled={spinning}
-        className="bg-pink-500 text-white px-6 py-3 rounded-full text-lg hover:bg-pink-600"
+        className="bg-pink-500 text-white px-6 py-3 rounded-full text-lg hover:bg-pink-600 transition"
       >
         {spinning ? "Spinning..." : "Spin 🎡"}
       </button>
